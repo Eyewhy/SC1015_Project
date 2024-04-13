@@ -1,5 +1,6 @@
 # TO NOTE
-We are only evaluating seasonals right now because I cleaned the dataset based on season, if yall really want we can add the other types back in also
+We are only evaluating seasonals right now because I cleaned the dataset based on season, if yall really want we can add the other types back in also \
+Random State is set and standardised as 42
 
 ## Introduction
 Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focusing on animes from 2023 Anime Dataset on Kaggle \
