@@ -4,8 +4,7 @@ Random State is set and standardised as 42 \
 also pls rmb to remove the extra models lying arnd befre submitting
 
 ## Introduction
-Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focusing on animes from 2023 Anime Dataset on Kaggle \
-https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset
+Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focusing on animes from [2023 Anime Dataset on Kaggle][https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset] \
 
 ## Problem Definition
 Can we predict the score of an anime based on its attributes? \
@@ -22,6 +21,9 @@ What models would be the best in predicting it?
 ## Conclusion
 
 ## What we learnt
+- One-Hot Encoding
+- TensorFlow Keras Neural Networks, Standardisation to reduce the range of values can improve performance of KNN models
+
 
 ## Contributors
 @Eyewhy\
