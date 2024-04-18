@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset
 ## Problem Definition
 Can we predict the score of an anime based on its attributes? \
 Which variable(s) is/are the best in predicting the score of animes\
-What models would be the best in predicting it? 
+What model(s) would be the best in predicting it? 
 
 ## Parts
   1.Data Cleaning \
@@ -19,6 +19,10 @@ What models would be the best in predicting it?
   3.Regression \
   4.Support Vector Classification \
   5.Keras Neural Networks
+
+## Models Used
+TensorFlow Keras Neural Networks
+
 
 ## Conclusion
 More variables coming together can make create better models that make more accurate predictions than using single variables alone
