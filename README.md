@@ -10,7 +10,7 @@ https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset
 
 ## Problem Definition
 Can we predict the score of an anime based on its attributes? \
-Which variable is the best in predicting the score of animes\
+Which variable(s) is/are the best in predicting the score of animes\
 What models would be the best in predicting it? 
 
 ## Parts
@@ -25,9 +25,12 @@ What models would be the best in predicting it?
 ## What we learnt
 - One-Hot Encoding
 - TensorFlow Keras Neural Networks, Standardisation to reduce the range of values can improve performance of KNN models
+- 
+- 
+- 
 
 
-## Contributors
+## Members
 @Eyewhy\
 @huegashi\
 @GabrielLim01
