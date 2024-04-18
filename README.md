@@ -4,8 +4,8 @@ Random State is set and standardised as 42 \
 also pls rmb to remove the extra models lying arnd befre submitting
 
 ## Introduction
-Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focusing on animes from [2023 Anime Dataset on Kaggle][link] 
-[link]: https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset
+Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focusing on animes from 2023 Anime Dataset on Kaggle\
+https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset
 
 
 ## Problem Definition
