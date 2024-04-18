@@ -21,13 +21,14 @@ What models would be the best in predicting it?
   5.Keras Neural Networks
 
 ## Conclusion
+More variables coming together can make create better models that make more accurate predictions than using single variables alone
 
 ## What we learnt
 - One-Hot Encoding
 - TensorFlow Keras Neural Networks, Standardisation to reduce the range of values can improve performance of KNN models
-- 
-- 
-- 
+- Setting up Anaconda environments
+- Using Github for group projects
+- Keeping a constant random state for reproducibility
 
 
 ## Members
