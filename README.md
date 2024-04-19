@@ -21,7 +21,13 @@ What model(s) would be the best in predicting it?
   5.Keras Neural Networks
 
 ## Models Used
-TensorFlow Keras Neural Networks
+Least Square Regression\
+K Nearest Neighbours \
+Decision Trees\
+TensorFlow Keras Neural Networks\
+Support Vector Classification
+
+
 
 
 ## Conclusion
