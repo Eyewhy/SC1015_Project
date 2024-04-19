@@ -4,13 +4,14 @@ Random State is set and standardised as 42 \
 also pls rmb to remove the extra models lying arnd befre submitting
 
 ## Introduction
-Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focusing on animes from 2023 Anime Dataset on Kaggle \
+Mini-Project for SC1015 (Introduction to Data Science and Artificial Intelligence) focusing on animes from 2023 Anime Dataset on Kaggle\
 https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset
+
 
 ## Problem Definition
 Can we predict the score of an anime based on its attributes? \
-Which variable is the best in predicting the score of animes\
-What models would be the best in predicting it? 
+Which variable(s) is/are the best in predicting the score of animes\
+What model(s) would be the best in predicting it? 
 
 ## Parts
   1.Data Cleaning \
@@ -19,11 +20,28 @@ What models would be the best in predicting it?
   4.Support Vector Classification \
   5.Keras Neural Networks
 
+## Models Used
+Least Square Regression\
+K Nearest Neighbours \
+Decision Trees\
+TensorFlow Keras Neural Networks\
+Support Vector Classification
+
+
+
+
 ## Conclusion
+More variables coming together can make create better models that make more accurate predictions than using single variables alone
 
 ## What we learnt
+- One-Hot Encoding
+- TensorFlow Keras Neural Networks, Standardisation to reduce the range of values can improve performance of KNN models
+- Setting up Anaconda environments
+- Using Github for group projects
+- Keeping a constant random state for reproducibility
 
-## Contributors
+
+## Members
 @Eyewhy\
 @huegashi\
 @GabrielLim01
