@@ -31,7 +31,7 @@ Support Vector Classification
 
 
 ## Conclusion
-More variables coming together can make create better models that make more accurate predictions than using single variables alone, for this, we decidede to stick to y = `Popularity`, `Members` + genres + studios\
+More variables coming together can make create better models that make more accurate predictions than using single variables alone, for this, we decided to stick to our final variable set: `Popularity`, `Members` + genres + studios\
 Comparing the results from the different models, neural networks performed the best, but this is only true after standardising the numerical data values. Otherwise, ordinary linear regression would've performed the best\
 
 ## What we learnt
