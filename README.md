@@ -31,7 +31,8 @@ Support Vector Classification
 
 
 ## Conclusion
-More variables coming together can make create better models that make more accurate predictions than using single variables alone
+More variables coming together can make create better models that make more accurate predictions than using single variables alone, for this, we decidede to stick to y = `Popularity`, `Members` + genres + studios\
+Comparing the results from the different models, neural networks performed the best, but this is only true after standardising the numerical data values. Otherwise, ordinary linear regression would've performed the best\
 
 ## What we learnt
 - One-Hot Encoding
@@ -39,6 +40,7 @@ More variables coming together can make create better models that make more accu
 - Setting up Anaconda environments
 - Using Github for group projects
 - Keeping a constant random state for reproducibility
+- Least Squares Regression, K Nearest Neighbours, Decision Trees
 
 
 ## Members
