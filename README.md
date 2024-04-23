@@ -16,7 +16,7 @@ What model would be the best in predicting scores?
 ## Parts
   1.Data Cleaning \
   2.Exploratory Analysis \
-  3.Regression \
+  3.Regression (+ derieve final vairable set)\
   4.Support Vector Classification \
   5.Keras Neural Networks
 
@@ -39,7 +39,7 @@ Comparing the results from the different models, neural networks performed the b
 - TensorFlow Keras Neural Networks, Standardisation to reduce the range of values can improve performance of KNN models
 - Setting up Anaconda environments
 - Using Github for group projects
-- Keeping a constant random state for reproducibility
+- Keeping a constant random state for reproducibility throughout notebooks, in train test split function
 - Least Squares Regression, K Nearest Neighbours, Decision Trees
 
 
