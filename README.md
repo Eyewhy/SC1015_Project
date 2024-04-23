@@ -30,7 +30,7 @@ Support Vector Classification
 ## Conclusion
 More variables coming together can make create better models that make more accurate predictions than using single variables alone, for this, we decided to stick to our final variable set: `Popularity`, `Members` + genres + studios\
 -refer to Regression notebook for deciding the final variable set 
-Comparing the results from the different models, neural networks performed the best, but this is only true after standardising the numerical data values
+Comparing the results from the different models, neural networks performed the best, but this is only true after standardising the numerical data values\
 
 Least Squares Regression and support vector classification have comparative results (SVC with slightly better R-squared value, but least squares regression with greater MSE)\
 Decision Tree also has comparative results to Least Square Regression (before depth 7)\
