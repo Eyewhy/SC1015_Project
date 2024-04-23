@@ -11,7 +11,7 @@ https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset
 ## Problem Definition
 Can we predict the score of an anime based on its attributes? \
 Which variable(s) is/are the best in predicting the score of animes\
-What model(s) would be the best in predicting it? 
+What model would be the best in predicting scores? 
 
 ## Parts
   1.Data Cleaning \
@@ -32,7 +32,7 @@ Support Vector Classification
 
 ## Conclusion
 More variables coming together can make create better models that make more accurate predictions than using single variables alone, for this, we decided to stick to our final variable set: `Popularity`, `Members` + genres + studios\
-Comparing the results from the different models, neural networks performed the best, but this is only true after standardising the numerical data values. Otherwise, ordinary linear regression would've performed the best\
+Comparing the results from the different models, neural networks performed the best, but this is only true after standardising the numerical data values. Otherwise, ordinary linear regression would've performed the best
 
 ## What we learnt
 - One-Hot Encoding
