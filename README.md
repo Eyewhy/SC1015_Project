@@ -54,3 +54,8 @@ K Nearest Neighbours doesn't seem to work very well, since we need a high value 
 
 
 ## References
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
+https://machinelearningmastery.com/tutorial-first-neural-network-python-keras
+https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda
+https://www.tensorflow.org/api_docs/python/tf/keras/Sequential
+https://scikit-learn.org/stable/modules/model_evaluation.html
