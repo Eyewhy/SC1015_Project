@@ -49,7 +49,7 @@ K Nearest Neighbours doesn't seem to work very well, since we need a high value 
 
 ## Members
 @Eyewhy - Regression, Data Cleaning\
-@huegashi - SVC, KNN\
+@huegashi - SVC, KNN, EDA\
 @GabrielLim01
 
 
