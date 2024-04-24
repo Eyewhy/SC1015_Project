@@ -30,7 +30,7 @@ Support Vector Classification
 ## Conclusion
 More variables coming together can make create better models that make more accurate predictions than using single variables alone, for this, we decided to stick to our final variable set: `Popularity`, `Members` + genres + studios\
 -refer to Regression notebook for deciding the final variable set\
-Comparing the results from the different models, neural networks performed the best, but this is only true after standardising the numerical data values, otherwise least squares regression would've performed the best overall
+Comparing the results from the different models, neural networks performed the best, but this is only true after standardising the numerical data values. Otherwise least squares regression would've performed the best overall
 
 Least Squares Regression and support vector classification have comparative results (SVC with slightly better R-squared value, but least squares regression with greater MSE)\
 Decision Tree also has comparative results to Least Square Regression (before depth 7)\
@@ -58,4 +58,5 @@ https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html \
 https://machinelearningmastery.com/tutorial-first-neural-network-python-keras \
 https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda \
 https://www.tensorflow.org/api_docs/python/tf/keras/Sequential \
-https://scikit-learn.org/stable/modules/model_evaluation.html
+https://scikit-learn.org/stable/modules/model_evaluation.html \
+Some references to EDA and Linear Regression exercises from lab
