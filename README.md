@@ -1,5 +1,5 @@
 # TO NOTE
-We are only evaluating seasonals right now because I cleaned the dataset based on season, if yall really want we can add the other types back in also \
+We are only evaluating seasonals \
 Random State is set and standardised as 42 for train test split function
 
 ## Introduction
